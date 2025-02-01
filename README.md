@@ -1,43 +1,57 @@
-# anyon e
+# anyon_e 15
 
-*also stylized as anyon_e*
+A higher end open source laptop fork.
 
-A highly integrated, high end, open source laptop.
+Please check out the original repo, and tip the original creator! I'm just modifying this out of inspiration.
 
-Mission: to disprove the idea that technology is either repairable and open or integrated and closed.
-
+_aka project 'Arctic Wolf'_
 #
-
-![Anyon_e Laptop](./website/public/img/photo.jpg)
-
-#### Features:
+#### Features (including added ones):
 
 - RK3588 SoC Motherboard
   - CM3588-based
   - USB-C USB3.1 Gen 1
-  - ESP32-S3 embedded controller
+  - Supports up to 32GB LPDDR5 or 16gb LPDDR4X
+  - **really reccomend a version with eMMC flash for the boot image**
 - Powertrain
   - ESP32-S3 embedded controller
-  - ~60Wh Li-ion battery pack
+  - ~60Wh Li-ion battery pack (maybe x2)
 - Peripherals
-  - Wireless mechanical keyboard
   - Glass-topped multi-touch trackpad
-- 4K AMOLED 13.3" display
-- Anodized aluminum CNC chassis
+  - HD AMOLED 15.6" display
+  - Anodized aluminum CNC chassis (i hope, most likely will end up being 304 grade aluminum)
+- Additions to original project:
+  - EasyEDA files for all schematics and PCBs so they're directly orderable. Additionally gonna include another repo for the Autodesk Inventor files, and blobs if needed.
+  - modified boards to be cheaper to order - at least the test adapter so far (4layer -> 2layer pcb)
+  - RJ45 jack for the on SOM 2.5g ethernet, an MXM slot, USB2.0 hub with outside port and connections for wired keyboard(s).
+  - beefier modular cooler for the SOM and MXM module (tba, haven't began anything aside from sketches)
+#
+
+Total end cost will be added here, including options and configurations i've bought;
+So far the running total is:
+ ## 336.90
+
+For:
+- Display adapter PCB x 5 (min order, JLCPCB, assembled (i don't have a reflow station)) ........... 60.61
+- Azoteq PXM0057-501-S (from Mouser) ............................................................... 66.29
+- CM3588 Plus (32GB LPDDR5, + 64gb eMMC) module, NAS board (for testing) and 12v 4A power supply .. 210.00
+
+Theorized total (for complete laptop):
+ ## 1580.73 (USD, excluding chassis)
+For:
+- CM3588 Plus (32GB LPDDR5, + 64gb eMMC) module, NAS board (for testing) and 12v 4A power supply .. 210.00 (it's expected you get this entirely for 
+- (MB) Custom 6 layer PCB (130mm x 215mm rough estimate), options detailed at final ordering ...... 155.23 (not including assembly!!!)
+- Radeon 6600XT MXM 3.0 Module .................................................................... 335.00
+- Battery (x4, with lead time) .................................................................... 146.81
+- Battery charging management PCB .................................................................  43.75 (not including assembly!!!)
+- Samsung ATNA56YX03-0 Panel, adhesive strips, and connecting ribbon .............................. 241.47
+- Mousepad old stock + generic backlit ribbon keyboard (Dell or Lenovo) ........................... 104.29
+- Misc Connectors, a sum of all BoMs .............................................................. 327.89 (from a few sites,aggregated. this price will go up over time!!!)
+- Webcamera, pait of shottky diodes, and a cable ..................................................  16.29 (ebay!)
+- Chassis, CNC milled, with ABS or resin bezels ................................................... unknown at this time
 
 #
 
-*[ **an**-yon ]*
-
-*exotic particles whose quantum statistics are neither bosonic nor fermionic.*[^1]
-
-Integrated like bosons, distinct like fermions.
+Hypothetically to cut costs you could choose a base model CM3588 (8gb with 64gb eMMC), choose a cheaper monitor, skip the MXM card, and get the costs down to under 900$ US but i'm making this with no expenses spared as much as possible.
 
 #
-
-Thank you to the Phillips Exeter Academy Science Department for supporting this project.
-*Non Sibi. Knowledge and Goodness. Youth From Every Quarter.* [^2]
-
-[^1]: H. Bartolomei et al. ,Fractional statistics in anyon collisions.Science368,173-177(2020).DOI:10.1126/science.aaz5601
-
-[^2]: Byran Huang's ('25) 2024-25 Fall Term Senior Project. Thank you to my advisors, Mr. Brad Robinson and Mr. Charles Mamolo.
