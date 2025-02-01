@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20240417)
+	(generator "eeschema")
+	(generator_version "8.99")
+	(uuid "6c15e8f5-a08d-421e-94a0-c7524b03fc63")
+	(paper "A4")
+	(title_block
+		(title "anyon e")
+		(date "2024-06-12")
+		(rev "V0.1")
+		(company "Byran Huang")
+		(comment 4 "Proof of concept board for feature verification")
+	)
+	(lib_symbols)
+)

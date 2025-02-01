@@ -1,0 +1,11 @@
+RJ45 jack for the on SOM 2.5g ethernet
+MXM 3 slot
+USB2.0 hub with outside port
+wired keyboard
+USB2.0 ribbon riser for webcam
+IO board with ribbon connector (for modular? IO on RHS/back)
+(mini)HDMI in lines
+Move charging port to rear (type C)
+Switch out external display connector for DP++ 1.4 (cool omni jack)
+make audio switch to speakers and inside mic using audio hotplug detection from 4 pin
+(potentially) relocate SD/TF slot to RHS
