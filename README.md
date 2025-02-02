@@ -29,17 +29,18 @@ _aka project 'Arctic Wolf'_
 
 Total end cost will be added here, including options and configurations i've bought;
 So far the running total is:
- ## 336.90
+ ## 479.20
 
 For:
 - Display adapter PCB x 5 (min order, JLCPCB, assembled (i don't have a reflow station)) ........... 60.61
 - Azoteq PXM0057-501-S (from Mouser) ............................................................... 66.29
 - CM3588 Plus (32GB LPDDR5, + 64gb eMMC) module, NAS board (for testing) and 12v 4A power supply .. 210.00
+- MISC development boards and converters on amazon (MXM, E key adapter, SSD) ...................... 142.30
 
 Theorized total (for complete laptop):
  ## 1580.73 (USD, excluding chassis)
 For:
-- CM3588 Plus (32GB LPDDR5, + 64gb eMMC) module, NAS board (for testing) and 12v 4A power supply .. 210.00 (it's expected you get this entirely for 
+- CM3588 Plus (32GB LPDDR5, + 64gb eMMC) module, NAS board (for testing) and 12v 4A power supply .. 210.00 (it's expected you get this entirely for loading the eMMC boot stuff)
 - (MB) Custom 6 layer PCB (130mm x 215mm rough estimate), options detailed at final ordering ...... 155.23 (not including assembly!!!)
 - Radeon 6600XT MXM 3.0 Module .................................................................... 335.00
 - Battery (x4, with lead time) .................................................................... 146.81
