@@ -48,7 +48,7 @@ For:
 - Samsung ATNA56YX03-0 Panel, adhesive strips, and connecting ribbon .............................. 241.47
 - Mousepad old stock + generic backlit ribbon keyboard (Dell or Lenovo) ........................... 104.29
 - Misc Connectors, a sum of all BoMs .............................................................. 327.89 (from a few sites,aggregated. this price will go up over time!!!)
-- Webcamera, pait of shottky diodes, and a cable ..................................................  16.29 (ebay!)
+- Webcamera, pair of shottky diodes, and a cable ..................................................  16.29 (ebay!)
 - Chassis, CNC milled, with ABS or resin bezels ................................................... unknown at this time
 
 #
