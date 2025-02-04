@@ -4,3 +4,4 @@
 *.step linguist-detectable
 *.pcb linguist-detectable
 *.sch linguist-detectable
+*.epro linguist-detectable
