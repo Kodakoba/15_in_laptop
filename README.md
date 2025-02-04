@@ -29,13 +29,13 @@ _aka project 'Arctic Wolf'_
 
 Total end cost will be added here, including options and configurations i've bought;
 So far the running total is:
- ## 479.20
+ ## 556.91
 
 For:
-- Display adapter PCB x 5 (min order, JLCPCB, assembled (i don't have a reflow station)) ........... 60.61
+- Display adapter PCB x 5 (min order, JLCPCB, assembled (i don't have a reflow station)) .......... 116.34
 - Azoteq PXM0057-501-S (from Mouser) ............................................................... 66.29
 - CM3588 Plus (32GB LPDDR5, + 64gb eMMC) module, NAS board (for testing) and 12v 4A power supply .. 210.00
-- MISC development boards and converters on amazon (MXM, E key adapter, SSD) ...................... 142.30
+- MISC development boards and converters on amazon (MXM, E key adapter, SSD) ...................... 164.28
 
 Theorized total (for complete laptop):
  ## 1580.73 (USD, excluding chassis)
