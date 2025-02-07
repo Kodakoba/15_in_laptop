@@ -58,3 +58,7 @@ For:
 Hypothetically to cut costs you could choose a base model CM3588 (8gb with 64gb eMMC), choose a cheaper monitor, skip the MXM card, and get the costs down to under 900$ US but i'm making this with no expenses spared as much as possible.
 
 #
+
+I've started to include .epro "nightly" revisions for this project as well, in case you wanna see progress over time.
+
+#
