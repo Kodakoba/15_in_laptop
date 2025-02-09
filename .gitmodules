@@ -1,3 +1,6 @@
 [submodule "Adafruit_nRF52_Bootloader"]
 	path = Adafruit_nRF52_Bootloader
 	url = https://github.com/Hello9999901/Adafruit_nRF52_Bootloader
+[submodule "USB_Laptop_Keyboard_Controller"]
+	path = USB_Laptop_Keyboard_Controller
+	url = https://github.com/thedalles77/USB_Laptop_Keyboard_Controller/
